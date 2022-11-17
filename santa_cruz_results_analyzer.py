@@ -189,13 +189,21 @@ def plot_results(election_name,names,results,dates,
         ax.set_ylim(0,100)
     elif ylims == 'default' and not percentages:            
         ax.set_ylim(0,highest_point*1.5)
-        
-    ordered_totals = reorder_results(names,ordered_names,results)
-    gap = ordered_totals[0][-1]-ordered_totals[1][-1]
-    if not percentages:
+    gap = ordered_results[0][-1]-ordered_results[1][-1]    
+    if not percentages and not diffs:
         ax.text(xs[0]+(xs[-1]-xs[0])*.1, highest_point*1.1,f'gap = {gap:.0f} votes')
-    else:
-        ax.text(xs[0]+(xs[-1]-xs[0])*.1, 90,f'gap = {gap:.0f} votes')
+    elif not percentages and diffs:
+        if gap>=0:
+            ax.text(xs[0]+(xs[-1]-xs[0])*.1, highest_point*1.1,f'gap widens by {gap:.0f} votes')
+        if gap<0:
+            ax.text(xs[0]+(xs[-1]-xs[0])*.1, highest_point*1.1,f'gap shrinks by {-gap:.0f} votes')
+    elif percentages and not diffs:
+        ax.text(xs[0]+(xs[-1]-xs[0])*.1, 80,f'gap = {gap:.2f} percent')
+    elif percentages and diffs:
+        if gap>=0:
+            ax.text(xs[0]+(xs[-1]-xs[0])*.1, 70,f'latest returns have\n {ordered_names[0]} \n ahead by {gap:.2f} percent')
+        if gap<0:
+            ax.text(xs[0]+(xs[-1]-xs[0])*.1, 70,f'latest returns have\n {ordered_names[1]} \n ahead by {-gap:.2f} percent')
     if percentages:
         ax.plot(xs,xs*0.0+50,'--',label = name,color = 'grey')
     ax.set_title(f'returns for election {election_name}')
