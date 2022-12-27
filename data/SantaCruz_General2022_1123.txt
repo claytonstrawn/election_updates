@@ -31,7 +31,7 @@ New voting system
  
  	
 California General Election November 8, 2022 Santa Cruz County -Unofficial Results-
-11/17/2022 4:20:00 PM
+11/23/2022 4:00:00 PM
 
 --Select Contest or Back to Top--
 Elector Group
@@ -40,24 +40,24 @@ In Person
 Total
 Voters
 Totals
-Total In Person: 7882 (4.72%)
-Total Vote by Mail: 94252 (56.49%)
-Total Votes: 102134 (61.22%)
+Total In Person: 9290 (5.57%)
+Total Vote by Mail: 96441 (57.81%)
+Total Votes: 105731 (63.37%)
 Total Registered Voters: 166837
 Candidate
 Party
 Total
 BRIAN DAHLE
 REP
-24313 (24.22%)
+24976 (24.05%)
 GAVIN NEWSOM
 DEM
-76061 (75.78%)
+78888 (75.95%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-1742
+1849
 Overvotes
 18
 Write In Candidate
@@ -68,15 +68,15 @@ Party
 Total
 ANGELA E. UNDERWOOD JACOBS
 REP
-22753 (22.89%)
+23351 (22.71%)
 ELENI KOUNALAKIS
 DEM
-76667 (77.11%)
+79485 (77.29%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-2710
+2891
 Overvotes
 4
 Write In Candidate
@@ -87,15 +87,15 @@ Party
 Total
 ROB BERNOSKY
 REP
-22937 (23.11%)
+23528 (22.91%)
 SHIRLEY N. WEBER
 DEM
-76333 (76.89%)
+79153 (77.09%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-2862
+3048
 Overvotes
 2
 Write In Candidate
@@ -106,15 +106,15 @@ Party
 Total
 MALIA M. COHEN
 DEM
-70413 (71.41%)
+73068 (71.64%)
 LANHEE J. CHEN
 REP
-28195 (28.59%)
+28925 (28.36%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-3512
+3724
 Overvotes
 14
 Write In Candidate
@@ -125,17 +125,17 @@ Party
 Total
 FIONA MA
 DEM
-74197 (75.59%)
+76905 (75.75%)
 JACK M. GUERRERO
 REP
-23962 (24.41%)
+24621 (24.25%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-3967
+4196
 Overvotes
-8
+9
 Write In Candidate
 Write In
 Total
@@ -144,15 +144,15 @@ Party
 Total
 ROB BONTA
 DEM
-75103 (76.17%)
+77875 (76.36%)
 NATHAN HOCHMAN
 REP
-23500 (23.83%)
+24111 (23.64%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-3526
+3740
 Overvotes
 5
 Write In Candidate
@@ -163,15 +163,15 @@ Party
 Total
 ROBERT HOWELL
 REP
-22665 (23.21%)
+23249 (23.02%)
 RICARDO LARA
 DEM
-74975 (76.79%)
+77730 (76.98%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-4488
+4746
 Overvotes
 6
 Write In Candidate
@@ -182,15 +182,15 @@ Party
 Total
 PETER COE VERBICA
 REP
-23735 (24.4%)
+24331 (24.18%)
 SALLY J. LIEBER
 DEM
-73556 (75.6%)
+76288 (75.82%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-4834
+5103
 Overvotes
 9
 Write In Candidate
@@ -201,15 +201,15 @@ Party
 Total
 ALEX PADILLA
 DEM
-77557 (77.77%)
+80445 (77.96%)
 MARK P. MEUSER
 REP
-22174 (22.23%)
+22740 (22.04%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-2374
+2517
 Overvotes
 29
 Write In Candidate
@@ -220,15 +220,15 @@ Party
 Total
 ALEX PADILLA
 DEM
-76996 (77.66%)
+79844 (77.85%)
 MARK P. MEUSER
 REP
-22148 (22.34%)
+22713 (22.15%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-2982
+3166
 Overvotes
 8
 Write In Candidate
@@ -239,15 +239,15 @@ Party
 Total
 PETER HERNANDEZ
 REP
-3266 (27.88%)
+3376 (27.85%)
 ZOE LOFGREN
 DEM
-8447 (72.12%)
+8746 (72.15%)
 Total Votes:
-12001
+12431
 Total
 Undervotes
-287
+308
 Overvotes
 1
 Write In Candidate
@@ -258,15 +258,15 @@ Party
 Total
 JIMMY PANETTA
 DEM
-70315 (79.95%)
+72873 (80.13%)
 JEFF GORMAN
 REP
-17633 (20.05%)
+18075 (19.87%)
 Total Votes:
-90133
+93300
 Total
 Undervotes
-2184
+2351
 Overvotes
 1
 Write In Candidate
@@ -277,15 +277,15 @@ Party
 Total
 STEPHANIE L. CASTRO
 REP
-3920 (27.55%)
+4044 (27.5%)
 ROBERT RIVAS
 DEM
-10310 (72.45%)
+10663 (72.5%)
 Total Votes:
-14677
+15181
 Total
 Undervotes
-446
+473
 Overvotes
 1
 Write In Candidate
@@ -296,15 +296,15 @@ Party
 Total
 LIZ LAWLER
 REP
-10900 (21.51%)
+11220 (21.26%)
 GAIL PELLERIN
 DEM
-39781 (78.49%)
+41544 (78.74%)
 Total Votes:
-52833
+55080
 Total
 Undervotes
-2150
+2314
 Overvotes
 2
 Write In Candidate
@@ -315,15 +315,15 @@ Party
 Total
 DAWN ADDIS
 DEM
-24888 (74.98%)
+25495 (75.03%)
 VICKI NOHRDEN
 REP
-8306 (25.02%)
+8483 (24.97%)
 Total Votes:
-34624
+35470
 Total
 Undervotes
-1429
+1491
 Overvotes
 1
 Write In Candidate
@@ -333,16 +333,16 @@ Candidate
 Party
 Total
 Yes
-66479 (83.19%)
+68807 (83.27%)
 No
-13433 (16.81%)
+13823 (16.73%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-22208
+23084
 Overvotes
-14
+17
 Write In Candidate
 Write In
 Total
@@ -350,14 +350,14 @@ Candidate
 Party
 Total
 Yes
-64489 (82.25%)
+66685 (82.29%)
 No
-13916 (17.75%)
+14349 (17.71%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-23716
+24684
 Overvotes
 13
 Write In Candidate
@@ -367,14 +367,14 @@ Candidate
 Party
 Total
 Yes
-63081 (81.56%)
+65176 (81.53%)
 No
-14264 (18.44%)
+14769 (18.47%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-24770
+25767
 Overvotes
 19
 Write In Candidate
@@ -384,14 +384,14 @@ Candidate
 Party
 Total
 Yes
-61705 (80.41%)
+63685 (80.32%)
 No
-15035 (19.59%)
+15601 (19.68%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-25386
+26437
 Overvotes
 8
 Write In Candidate
@@ -401,16 +401,16 @@ Candidate
 Party
 Total
 Yes
-62260 (82.65%)
+64308 (82.64%)
 No
-13067 (17.35%)
+13509 (17.36%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-26778
+27884
 Overvotes
-29
+30
 Write In Candidate
 Write In
 Total
@@ -418,14 +418,14 @@ Candidate
 Party
 Total
 Yes
-59738 (80.36%)
+61636 (80.27%)
 No
-14601 (19.64%)
+15154 (19.73%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-27784
+28930
 Overvotes
 11
 Write In Candidate
@@ -435,14 +435,14 @@ Candidate
 Party
 Total
 Yes
-61066 (81.75%)
+63079 (81.76%)
 No
-13636 (18.25%)
+14072 (18.24%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-27427
+28575
 Overvotes
 5
 Write In Candidate
@@ -452,16 +452,16 @@ Candidate
 Party
 Total
 LANCE RAY CHRISTENSEN
-19706 (23.7%)
+20363 (23.71%)
 TONY K. THURMOND
-62709 (75.41%)
+64740 (75.39%)
 Write-in
-740 (0.89%)
+774 (0.9%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-18934
+19809
 Overvotes
 45
 Write In Candidate
@@ -469,21 +469,21 @@ Write In
 Total
 Write In
 WRITE-IN
-740 (0.89%)
+774 (0.9%)
 Candidate
 Party
 Total
 SARA E. BRYLOWSKI
-6197 (42.73%)
+6341 (42.73%)
 DONNA ZIEL
-8153 (56.22%)
+8333 (56.16%)
 Write-in
-153 (1.05%)
+165 (1.11%)
 Total Votes:
-19287
+19760
 Total
 Undervotes
-4780
+4917
 Overvotes
 4
 Write In Candidate
@@ -491,43 +491,43 @@ Write In
 Total
 Write In
 WRITE-IN
-153 (1.05%)
+165 (1.11%)
 Candidate
 Party
 Total
 ADAM SPICKLER
-10887 (80.32%)
+11221 (80.29%)
 BOB KITTLE
-2552 (18.83%)
+2633 (18.84%)
 Write-in
-116 (0.86%)
+122 (0.87%)
 Total Votes:
-17444
+18045
 Total
 Undervotes
-3881
+4060
 Overvotes
-8
+9
 Write In Candidate
 Write In
 Total
 Write In
 WRITE-IN
-116 (0.86%)
+122 (0.87%)
 Candidate
 Party
 Total
 J DAN ROTHWELL
-10180 (69.77%)
+10398 (69.67%)
 MARK HUCKLEBRIDGE
-4250 (29.13%)
+4356 (29.19%)
 Write-in
-161 (1.1%)
+170 (1.14%)
 Total Votes:
-18991
+19468
 Total
 Undervotes
-4396
+4540
 Overvotes
 4
 Write In Candidate
@@ -535,43 +535,43 @@ Write In
 Total
 Write In
 WRITE-IN
-161 (1.1%)
+170 (1.14%)
 Candidate
 Party
 Total
 RYAN LIPERT
-3867 (38.68%)
+3969 (38.75%)
 GAIL D. LEVINE
-6066 (60.67%)
+6205 (60.58%)
 Write-in
-65 (0.65%)
+69 (0.67%)
 Total Votes:
-11847
+12165
 Total
 Undervotes
-1846
+1918
 Overvotes
-3
+4
 Write In Candidate
 Write In
 Total
 Write In
 WRITE-IN
-65 (0.65%)
+69 (0.67%)
 Candidate
 Party
 Total
 KIMBERLY A. DE SERPA
-4177 (62.94%)
+4257 (62.91%)
 NATALAIN SCHWARTZ
-2419 (36.45%)
+2467 (36.46%)
 Write-in
-41 (0.62%)
+43 (0.64%)
 Total Votes:
-8049
+8231
 Total
 Undervotes
-1409
+1461
 Overvotes
 3
 Write In Candidate
@@ -579,21 +579,21 @@ Write In
 Total
 Write In
 WRITE-IN
-41 (0.62%)
+43 (0.64%)
 Candidate
 Party
 Total
 JENNIFER SCHACHER
-1179 (47.27%)
+1219 (47.21%)
 OLIVIA FLORES
-1296 (51.96%)
+1343 (52.01%)
 Write-in
-19 (0.76%)
+20 (0.77%)
 Total Votes:
-2664
+2766
 Total
 Undervotes
-169
+183
 Overvotes
 1
 Write In Candidate
@@ -601,27 +601,27 @@ Write In
 Total
 Write In
 WRITE-IN
-19 (0.76%)
+20 (0.77%)
 Candidate
 Party
 Total
 MISTY DAVIES
-1058 (20.98%)
+1081 (20.94%)
 STEVE CHEN
-1279 (25.36%)
+1312 (25.42%)
 ALEX SHULTZ
-1226 (24.31%)
+1262 (24.45%)
 CHRIS MILLER
-627 (12.43%)
+642 (12.44%)
 DAVID GUIDRY
-831 (16.48%)
+843 (16.33%)
 Write-in
-22 (0.44%)
+22 (0.43%)
 Total Votes:
-2621
+2686
 Total
 Undervotes
-2814
+2890
 Overvotes
 6
 Write In Candidate
@@ -629,7 +629,7 @@ Write In
 Total
 Write In 1
 WRITE-IN
-10 (0.2%)
+10 (0.19%)
 Write In 2
 WRITE-IN
 6 (0.12%)
@@ -640,20 +640,20 @@ Candidate
 Party
 Total
 PATRICIA ADAMS
-2659 (19.56%)
+2711 (19.55%)
 LUCIA ROCHA-NESTLER
-5038 (37.06%)
+5147 (37.11%)
 ROGER L. SNYDER
-4250 (31.26%)
+4335 (31.26%)
 COREY WARNER
-1596 (11.74%)
+1619 (11.67%)
 Write-in
-52 (0.38%)
+56 (0.4%)
 Total Votes:
-9203
+9399
 Total
 Undervotes
-4791
+4910
 Overvotes
 20
 Write In Candidate
@@ -661,28 +661,28 @@ Write In
 Total
 Write In 1
 WRITE-IN
-47 (0.35%)
+49 (0.35%)
 Write In 2
 WRITE-IN
-5 (0.04%)
+7 (0.05%)
 Candidate
 Party
 Total
 RACHEL CLICK RICHARDSON
-464 (28.73%)
+479 (28.89%)
 CLIFFORD HODGES
-455 (28.17%)
+464 (27.99%)
 JACOB ZILS WILLET
-497 (30.77%)
+510 (30.76%)
 EDWARD "TEDDY" WOOD
-188 (11.64%)
+194 (11.7%)
 Write-in
-11 (0.68%)
+11 (0.66%)
 Total Votes:
-830
+855
 Total
 Undervotes
-869
+901
 Overvotes
 6
 Write In Candidate
@@ -690,7 +690,7 @@ Write In
 Total
 Write In 1
 WRITE-IN
-7 (0.43%)
+7 (0.42%)
 Write In 2
 WRITE-IN
 2 (0.12%)
@@ -701,16 +701,16 @@ Candidate
 Party
 Total
 PHIL RODRIGUEZ
-1206 (58.01%)
+1226 (57.8%)
 JUSTIN MAFFIA
-860 (41.37%)
+882 (41.58%)
 Write-in
-13 (0.63%)
+13 (0.61%)
 Total Votes:
-2638
+2701
 Total
 Undervotes
-558
+579
 Overvotes
 1
 Write In Candidate
@@ -718,21 +718,21 @@ Write In
 Total
 Write In
 WRITE-IN
-13 (0.63%)
+13 (0.61%)
 Candidate
 Party
 Total
 JUSTIN CUMMINGS
-9428 (49.69%)
+10290 (50.99%)
 SHEBREH KALANTARI-JOHNSON
-9393 (49.5%)
+9727 (48.2%)
 Write-in
-153 (0.81%)
+165 (0.82%)
 Total Votes:
-20548
+21938
 Total
 Undervotes
-1562
+1744
 Overvotes
 12
 Write In Candidate
@@ -740,49 +740,49 @@ Write In
 Total
 Write In
 WRITE-IN
-153 (0.81%)
+165 (0.82%)
 Candidate
 Party
 Total
 JIMMY DUTRA
-3835 (41.76%)
+3950 (41.59%)
 FELIPE HERNANDEZ
-5231 (56.96%)
+5420 (57.06%)
 Write-in
-118 (1.28%)
+128 (1.35%)
 Total Votes:
-9588
+9927
 Total
 Undervotes
-394
+417
 Overvotes
-10
+12
 Write In Candidate
 Write In
 Total
 Write In
 WRITE-IN
-118 (1.28%)
+128 (1.35%)
 Candidate
 Party
 Total
 ENRIQUE DOLMO, JR
-1718 (17.91%)
+1764 (18%)
 YVETTE LOPEZ BROOKS
-2490 (25.95%)
+2543 (25.95%)
 JOE CLARKE
-1791 (18.67%)
+1825 (18.62%)
 ALEXANDER PEDERSEN
-1799 (18.75%)
+1842 (18.8%)
 GERRY JENSEN
-1767 (18.42%)
+1797 (18.34%)
 Write-in
 29 (0.3%)
 Total Votes:
-4469
+4578
 Total
 Undervotes
-3804
+3925
 Overvotes
 9
 Write In Candidate
@@ -801,16 +801,16 @@ Candidate
 Party
 Total
 JOY SCHENDLEDECKER
-5947 (27.44%)
+6595 (28.71%)
 FRED KEELEY
-15530 (71.66%)
+16171 (70.39%)
 Write-in
-194 (0.9%)
+206 (0.9%)
 Total Votes:
-23430
+24954
 Total
 Undervotes
-1749
+1972
 Overvotes
 10
 Write In Candidate
@@ -818,25 +818,25 @@ Write In
 Total
 Write In
 WRITE-IN
-194 (0.9%)
+206 (0.9%)
 Candidate
 Party
 Total
 SCOTT NEWSOME
-1632 (50.94%)
+1709 (50.37%)
 BODIE SHARGEL
-224 (6.99%)
+248 (7.31%)
 HECTOR MARIN
-1105 (34.49%)
+1177 (34.69%)
 GREGORY A HYVER
-224 (6.99%)
+239 (7.04%)
 Write-in
-19 (0.59%)
+20 (0.59%)
 Total Votes:
-3681
+3919
 Total
 Undervotes
-466
+515
 Overvotes
 11
 Write In Candidate
@@ -844,21 +844,21 @@ Write In
 Total
 Write In
 WRITE-IN
-19 (0.59%)
+20 (0.59%)
 Candidate
 Party
 Total
 SEAN MAXWELL
-1504 (41.23%)
+1606 (41.51%)
 RENÉE GOLDER
-2120 (58.11%)
+2238 (57.84%)
 Write-in
-24 (0.66%)
+25 (0.65%)
 Total Votes:
-4026
+4281
 Total
 Undervotes
-374
+408
 Overvotes
 4
 Write In Candidate
@@ -866,23 +866,23 @@ Write In
 Total
 Write In
 WRITE-IN
-24 (0.66%)
+25 (0.65%)
 Candidate
 Party
 Total
 JIM REED
-2400 (26.57%)
+2451 (26.64%)
 DEREK TIMM
-3643 (40.33%)
+3715 (40.38%)
 ALLAN TIMMS
-2936 (32.5%)
+2980 (32.39%)
 Write-in
-54 (0.6%)
+55 (0.6%)
 Total Votes:
-5895
+6018
 Total
 Undervotes
-2753
+2831
 Overvotes
 4
 Write In Candidate
@@ -890,7 +890,7 @@ Write In
 Total
 Write In 1
 WRITE-IN
-46 (0.51%)
+47 (0.51%)
 Write In 2
 WRITE-IN
 8 (0.09%)
@@ -898,14 +898,14 @@ Candidate
 Party
 Total
 MARIA OROZCO
-1106 (94.94%)
+1142 (94.85%)
 Write-in
-59 (5.06%)
+62 (5.15%)
 Total Votes:
-1331
+1374
 Total
 Undervotes
-166
+170
 Overvotes
 0
 Write In Candidate
@@ -913,19 +913,19 @@ Write In
 Total
 Write In
 WRITE-IN
-59 (5.06%)
+62 (5.15%)
 Candidate
 Party
 Total
 KRISTAL SALCIDO
-1060 (96.1%)
+1098 (96.06%)
 Write-in
-43 (3.9%)
+45 (3.94%)
 Total Votes:
-1309
+1364
 Total
 Undervotes
-206
+221
 Overvotes
 0
 Write In Candidate
@@ -933,19 +933,19 @@ Write In
 Total
 Write In
 WRITE-IN
-43 (3.9%)
+45 (3.94%)
 Candidate
 Party
 Total
 CASEY K. CLARK
-700 (91.38%)
+730 (91.59%)
 Write-in
-66 (8.62%)
+67 (8.41%)
 Total Votes:
-958
+997
 Total
 Undervotes
-192
+200
 Overvotes
 0
 Write In Candidate
@@ -953,21 +953,21 @@ Write In
 Total
 Write In
 WRITE-IN
-66 (8.62%)
+67 (8.41%)
 Candidate
 Party
 Total
 NANCY A. BILICICH
-927 (45.31%)
+948 (44.89%)
 ARI PARKER
-1097 (53.62%)
+1138 (53.88%)
 Write-in
-22 (1.08%)
+26 (1.23%)
 Total Votes:
-2139
+2212
 Total
 Undervotes
-91
+98
 Overvotes
 2
 Write In Candidate
@@ -975,25 +975,25 @@ Write In
 Total
 Write In
 WRITE-IN
-22 (1.08%)
+26 (1.23%)
 Candidate
 Party
 Total
 DAVID DUNNING
-894 (13.44%)
+913 (13.51%)
 SAMMY ROBUSTELLI
-2282 (34.32%)
+2310 (34.18%)
 VINCE Y. CORTINAS, SR
-1604 (24.12%)
+1634 (24.18%)
 ROBERT LOUIS PRESSWOOD
-1860 (27.97%)
+1890 (27.96%)
 Write-in
-10 (0.15%)
+12 (0.18%)
 Total Votes:
-4336
+4415
 Total
 Undervotes
-1976
+2025
 Overvotes
 46
 Write In Candidate
@@ -1001,24 +1001,24 @@ Write In
 Total
 Write In 1
 WRITE-IN
-9 (0.14%)
+10 (0.15%)
 Write In 2
 WRITE-IN
-1 (0.02%)
+2 (0.03%)
 Candidate
 Party
 Total
 DENISE MILLER
-1878 (30.13%)
+1938 (30.41%)
 MICHAEL HUSHAW
-4312 (69.18%)
+4391 (68.9%)
 Write-in
-43 (0.69%)
+44 (0.69%)
 Total Votes:
-7862
+8061
 Total
 Undervotes
-1627
+1686
 Overvotes
 2
 Write In Candidate
@@ -1026,23 +1026,23 @@ Write In
 Total
 Write In
 WRITE-IN
-43 (0.69%)
+44 (0.69%)
 Candidate
 Party
 Total
 JIM ANDERSON
-1930 (47.62%)
+1970 (47.58%)
 NORMAN CRANDELL
-1661 (40.98%)
+1699 (41.04%)
 ADAM HENSLEIGH
-455 (11.23%)
+464 (11.21%)
 Write-in
 7 (0.17%)
 Total Votes:
-3062
+3142
 Total
 Undervotes
-2069
+2142
 Overvotes
 2
 Write In Candidate
@@ -1050,7 +1050,7 @@ Write In
 Total
 Write In 1
 WRITE-IN
-6 (0.15%)
+6 (0.14%)
 Write In 2
 WRITE-IN
 1 (0.02%)
@@ -1058,20 +1058,20 @@ Candidate
 Party
 Total
 MARK SMOLLEY
-6189 (27.47%)
+6317 (27.44%)
 JEFFREY HILL
-5454 (24.21%)
+5569 (24.19%)
 BOB FULTZ
-5449 (24.18%)
+5552 (24.12%)
 ALINA LAYNG
-5357 (23.78%)
+5500 (23.89%)
 Write-in
-82 (0.36%)
+85 (0.37%)
 Total Votes:
-11760
+12053
 Total
 Undervotes
-12737
+13124
 Overvotes
 12
 Write In Candidate
@@ -1079,63 +1079,63 @@ Write In
 Total
 Write In 1
 WRITE-IN
-54 (0.24%)
+57 (0.25%)
 Write In 2
 WRITE-IN
 20 (0.09%)
 Write In 3
 WRITE-IN
-8 (0.04%)
+8 (0.03%)
 Candidate
 Party
 Total
 CARLA C. CHRISTENSEN
-9997 (24.74%)
+10187 (24.71%)
 RACHÉL LATHER
-11186 (27.68%)
+11410 (27.68%)
 BRUCE JAFFE
-11585 (28.67%)
+11814 (28.66%)
 KRIS KIRBY
-4081 (10.1%)
+4168 (10.11%)
 CORRIE KATES
-3436 (8.5%)
+3514 (8.52%)
 Write-in
-123 (0.3%)
+132 (0.32%)
 Total Votes:
-19192
+19646
 Total
 Undervotes
-17117
+17659
 Overvotes
-51
+54
 Write In Candidate
 Write In
 Total
 Write In 1
 WRITE-IN
-87 (0.22%)
+94 (0.23%)
 Write In 2
 WRITE-IN
-23 (0.06%)
+24 (0.06%)
 Write In 3
 WRITE-IN
-13 (0.03%)
+14 (0.03%)
 Candidate
 Party
 Total
 DICK STARR
-8547 (17.07%)
+8947 (17.24%)
 TOBY GODDARD
-21337 (42.62%)
+22090 (42.57%)
 REED GEISREITER
-19856 (39.66%)
+20508 (39.53%)
 Write-in
-329 (0.66%)
+340 (0.66%)
 Total Votes:
-40814
+42551
 Total
 Undervotes
-31523
+33181
 Overvotes
 36
 Write In Candidate
@@ -1143,83 +1143,49 @@ Write In
 Total
 Write In 1
 WRITE-IN
-266 (0.53%)
+274 (0.53%)
 Write In 2
 WRITE-IN
-63 (0.13%)
+66 (0.13%)
 Candidate
 Party
 Total
 MARCUS PIMENTEL
-8213 (31.43%)
+8441 (31.37%)
 JASMINE NOTANEE NÁJERA
-7134 (27.3%)
+7356 (27.34%)
 JOE GALLAGHER
-10623 (40.65%)
+10932 (40.63%)
 Write-in
-165 (0.63%)
+179 (0.67%)
 Total Votes:
-20417
+21073
 Total
 Undervotes
-14667
+15204
 Overvotes
-32
+34
 Write In Candidate
 Write In
 Total
 Write In 1
 WRITE-IN
-143 (0.55%)
+154 (0.57%)
 Write In 2
 WRITE-IN
-22 (0.08%)
+25 (0.09%)
 Candidate
 Party
 Total
 Yes
-80411 (80.79%)
+83422 (80.98%)
 No
-19124 (19.21%)
+19596 (19.02%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-2586
-Overvotes
-13
-Write In Candidate
-Write In
-Total
-Candidate
-Party
-Total
-Yes
-31159 (32.43%)
-No
-64923 (67.57%)
-Total Votes:
-102134
-Total
-Undervotes
-6025
-Overvotes
-27
-Write In Candidate
-Write In
-Total
-Candidate
-Party
-Total
-Yes
-15305 (15.7%)
-No
-82199 (84.3%)
-Total Votes:
-102134
-Total
-Undervotes
-4615
+2698
 Overvotes
 15
 Write In Candidate
@@ -1229,48 +1195,14 @@ Candidate
 Party
 Total
 Yes
-73154 (74.16%)
+32647 (32.85%)
 No
-25487 (25.84%)
+66723 (67.15%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-3477
-Overvotes
-16
-Write In Candidate
-Write In
-Total
-Candidate
-Party
-Total
-Yes
-28568 (29.71%)
-No
-67576 (70.29%)
-Total Votes:
-102134
-Total
-Undervotes
-5958
-Overvotes
-32
-Write In Candidate
-Write In
-Total
-Candidate
-Party
-Total
-Yes
-59558 (60.47%)
-No
-38940 (39.53%)
-Total Votes:
-102134
-Total
-Undervotes
-3609
+6334
 Overvotes
 27
 Write In Candidate
@@ -1280,16 +1212,84 @@ Candidate
 Party
 Total
 Yes
-71170 (72.45%)
+16142 (16.01%)
 No
-27069 (27.55%)
+84699 (83.99%)
 Total Votes:
-102134
+105731
 Total
 Undervotes
-3869
+4873
 Overvotes
-26
+17
+Write In Candidate
+Write In
+Total
+Candidate
+Party
+Total
+Yes
+75960 (74.43%)
+No
+26094 (25.57%)
+Total Votes:
+105731
+Total
+Undervotes
+3661
+Overvotes
+16
+Write In Candidate
+Write In
+Total
+Candidate
+Party
+Total
+Yes
+30026 (30.2%)
+No
+69386 (69.8%)
+Total Votes:
+105731
+Total
+Undervotes
+6287
+Overvotes
+32
+Write In Candidate
+Write In
+Total
+Candidate
+Party
+Total
+Yes
+61989 (60.82%)
+No
+39937 (39.18%)
+Total Votes:
+105731
+Total
+Undervotes
+3776
+Overvotes
+29
+Write In Candidate
+Write In
+Total
+Candidate
+Party
+Total
+Yes
+73561 (72.39%)
+No
+28057 (27.61%)
+Total Votes:
+105731
+Total
+Undervotes
+4085
+Overvotes
+28
 Write In Candidate
 Write In
 Total
@@ -1297,16 +1297,16 @@ Candidate
 Party
 Total
 Bonds Yes
-31377 (66.07%)
+33027 (66.71%)
 Bonds No
-16111 (33.93%)
+16481 (33.29%)
 Total Votes:
-49880
+52065
 Total
 Undervotes
-2387
+2551
 Overvotes
-5
+6
 Write In Candidate
 Write In
 Total
@@ -1314,14 +1314,14 @@ Candidate
 Party
 Total
 Bonds Yes
-16580 (70.33%)
+17776 (71.16%)
 Bonds No
-6996 (29.67%)
+7205 (28.84%)
 Total Votes:
-24611
+26135
 Total
 Undervotes
-1034
+1153
 Overvotes
 1
 Write In Candidate
@@ -1331,14 +1331,14 @@ Candidate
 Party
 Total
 Yes
-1324 (66.57%)
+1362 (66.86%)
 No
-665 (33.43%)
+675 (33.14%)
 Total Votes:
-2028
+2079
 Total
 Undervotes
-39
+42
 Overvotes
 0
 Write In Candidate
@@ -1348,16 +1348,16 @@ Candidate
 Party
 Total
 Yes
-10077 (44.2%)
+11126 (45.91%)
 No
-12723 (55.8%)
+13107 (54.09%)
 Total Votes:
-23430
+24954
 Total
 Undervotes
-623
+713
 Overvotes
-7
+8
 Write In Candidate
 Write In
 Total
@@ -1365,16 +1365,16 @@ Candidate
 Party
 Total
 Yes
-8933 (39.97%)
+9598 (40.44%)
 No
-13418 (60.03%)
+14138 (59.56%)
 Total Votes:
-23430
+24954
 Total
 Undervotes
-1070
+1207
 Overvotes
-9
+11
 Write In Candidate
 Write In
 Total
@@ -1382,14 +1382,14 @@ Candidate
 Party
 Total
 Yes
-18142 (80.36%)
+19354 (80.6%)
 No
-4435 (19.64%)
+4659 (19.4%)
 Total Votes:
-23430
+24954
 Total
 Undervotes
-851
+939
 Overvotes
 2
 Write In Candidate
@@ -1399,14 +1399,14 @@ Candidate
 Party
 Total
 Yes
-5553 (67.82%)
+5739 (67.76%)
 No
-2635 (32.18%)
+2730 (32.24%)
 Total Votes:
-8642
+8953
 Total
 Undervotes
-453
+483
 Overvotes
 1
 Write In Candidate
@@ -1416,14 +1416,14 @@ Candidate
 Party
 Total
 Yes
-5365 (64.27%)
+5563 (64.4%)
 No
-2982 (35.73%)
+3075 (35.6%)
 Total Votes:
-8642
+8953
 Total
 Undervotes
-295
+315
 Overvotes
 0
 Write In Candidate
@@ -1433,14 +1433,14 @@ Candidate
 Party
 Total
 Yes
-4121 (49.97%)
+4271 (50.04%)
 No
-4126 (50.03%)
+4264 (49.96%)
 Total Votes:
-8642
+8953
 Total
 Undervotes
-395
+418
 Overvotes
 0
 Write In Candidate
@@ -1450,14 +1450,14 @@ Candidate
 Party
 Total
 Yes
-2391 (57.24%)
+2442 (57.4%)
 No
-1786 (42.76%)
+1812 (42.6%)
 Total Votes:
-4325
+4405
 Total
 Undervotes
-147
+150
 Overvotes
 1
 Write In Candidate

@@ -166,6 +166,7 @@ def plot_results(election_name,names,results,dates,
         ys=diff_results/diff_tots*100
     ordered_names = values_to_plot(names,results,keep)
     ordered_results = reorder_results(names,ordered_names,ys)
+    ordered_totals = reorder_results(names,ordered_names,results)
     for i,name in enumerate(ordered_names):
         color = get_color(name,election_name,color_dict)
         if color is None:
@@ -193,9 +194,11 @@ def plot_results(election_name,names,results,dates,
     if not percentages and not diffs:
         ax.text(xs[0]+(xs[-1]-xs[0])*.1, highest_point*1.1,f'gap = {gap:.0f} votes')
     elif not percentages and diffs:
-        if gap>=0:
+        if ordered_totals[0,-2]<ordered_totals[1,-2]:
+            ax.text(xs[0]+(xs[-1]-xs[0])*.1, highest_point*1.1,f'Flipped! With {gap:.0f} net new votes')
+        elif gap>=0:
             ax.text(xs[0]+(xs[-1]-xs[0])*.1, highest_point*1.1,f'gap widens by {gap:.0f} votes')
-        if gap<0:
+        elif gap<0:
             ax.text(xs[0]+(xs[-1]-xs[0])*.1, highest_point*1.1,f'gap shrinks by {-gap:.0f} votes')
     elif percentages and not diffs:
         ax.text(xs[0]+(xs[-1]-xs[0])*.1, 80,f'gap = {gap:.2f} percent')
